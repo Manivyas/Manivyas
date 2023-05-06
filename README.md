@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Manivyas
-- 👀 I’m interested in coding and debugging.
-- 🌱 I’m currently learning cloud, microservices and applications.
-- 💞️ I’m looking to collaborate on people who are interested in Python and Java languages, AWS learners
+- 👀 Currently, I'm Software Developer Engineer - Intern at YUBI (formerly CredAvenue)
+-  FE : ReactJS, TypeScript, HTML,CSS, React Libraries
+-  BE : Spring Framework, Java, Swagger( APIs ), Python-Flask, Docker
+-  DB : MongoDB, Postgres, MySQL
+-  Other technologies : Kafka, Forest Admin, Superset, Postman, Git Management
 - 📫 How to reach me via https://www.linkedin.com/in/manivyas-aedulapuram-33330b19a
 
 <!---
